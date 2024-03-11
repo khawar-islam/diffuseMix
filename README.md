@@ -61,3 +61,6 @@ If you find our work useful in your research please consider citing our paper:
   year={2024}
 }
 ```
+
+## ❤️ Acknowledgment
+I am thankful to Adversarial-AutoMixup (@JinXins) to provide me source and target images, it saves lots of my time. Thank you once again. Also, I am exceptionally thankful to IPMix author (@hzlsaber) to represent his method figure clearly for my paper.
