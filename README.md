@@ -45,7 +45,7 @@ train
           └───── n03786901_5410.jpg
  └─── ...
 ```
-## DiffuseMix Augmentation
+## ✨ DiffuseMix Augmentation
 
 ```
 `python3 main.py --train_dir PATH --fractal_dir PATH --prompts sunset,Autumn
