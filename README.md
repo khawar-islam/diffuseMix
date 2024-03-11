@@ -22,6 +22,7 @@
 
 ## Getting Started
 Setup anaconda environment using `environment.yml` file.
+
 `conda env create --name DiffuseMix --file=environment.yml
 conda remove -n DiffuseMix --all # In case environment installation failed`
 
