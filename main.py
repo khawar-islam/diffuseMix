@@ -46,4 +46,3 @@ if __name__ == '__main__':
     main()
 
 
-# python3 main.py --train_dir /media/cvpr/CM_1/datasets/original_dataset/cars_dMix/trainCon --fractal_dir /media/cvpr/CM_24/IPMix/IPMix-set/deviantart --prompts sunset,Autumn
