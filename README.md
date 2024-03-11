@@ -22,10 +22,8 @@
 
 ## Getting Started
 Setup anaconda environment using `environment.yml` file.
-
-`conda env create --name DiffuseMix --file=environment.yml`
-
-`conda remove -n DiffuseMix --all` # In case environment installation failed
+`conda env create --name DiffuseMix --file=environment.yml
+conda remove -n DiffuseMix --all # In case environment installation failed`
 
 ## List of Prompts 
 Below is the list of prompts, if your accuracy is low then you can use all prompts to increase the performance. Remember that each prompt takes a time to generate images, so the best way is to start from two prompts then increase the number of prompts.
