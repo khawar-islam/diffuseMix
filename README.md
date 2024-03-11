@@ -16,31 +16,41 @@
 
 ## 📢 Latest Updates
 - **Mar-11-24**: Extending version will be available on IEEE PAMI
-- **Nov-28-23**: DiffuseMix paper is released [arxiv link](https://arxiv.org/abs/2311.15826). 🔥🔥
+- **Mar-11-24**: DiffuseMix paper is released [arxiv link](https://www.linkedin.com/in/khawarislam/). 🔥🔥
 - 📦 Code, models, and datasets coming soon! 🚀
 ---
 
 ## Getting Started
 Setup anaconda environment using `environment.yml` file.
 
-`conda env create --name DiffuseMix --file=environment.yml
-conda remove -n DiffuseMix --all # In case environment installation failed`
+```
+conda env create --name DiffuseMix --file=environment.yml
+conda remove -n DiffuseMix --all # In case environment installation faileds
+```
 
 ## List of Prompts 
 Below is the list of prompts, if your accuracy is low then you can use all prompts to increase the performance. Remember that each prompt takes a time to generate images, so the best way is to start from two prompts then increase the number of prompts.
 
-`prompts = ["Autumn", "snowy", "watercolor art","sunset", "rainbow", "aurora",
-               "mosaic", "ukiyo-e", "a sketch with crayon"]`
-
+```
+prompts = ["Autumn", "snowy", "watercolor art","sunset", "rainbow", "aurora",
+               "mosaic", "ukiyo-e", "a sketch with crayon"]
+```
 
 ## Dataset Structure
-`train
+```
+train
  └─── class 1
           └───── n04355338_22023.jpg
  └─── class 2
           └───── n03786901_5410.jpg
- └─── ...`
+ └─── ...
+```
+## Image generation
 
+```
 `python3 main.py --train_dir PATH --fractal_dir PATH --prompts sunset,Autumn
-`
+```
+
+## Citation
+If you find our work useful in your research please consider citing our paper:
 
