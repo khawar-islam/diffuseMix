@@ -20,7 +20,7 @@
 - 📦 Code, models, and datasets coming soon! 🚀
 ---
 
-## Getting Started
+## ▶️ Getting Started
 Setup anaconda environment using `environment.yml` file.
 
 ```
