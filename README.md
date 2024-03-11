@@ -53,4 +53,11 @@ train
 
 ## Citation
 If you find our work useful in your research please consider citing our paper:
-
+```
+@article{diffuseMix2024,
+  title={DIFFUSEMIX: Label-Preserving Data Augmentation with Diffusion Models},
+  author={Khawar Islam, Muhammad Zaigham Zaheer, Arif Mahmood, Karthik Nandakumar},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2024}
+}
+```
