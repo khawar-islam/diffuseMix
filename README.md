@@ -63,4 +63,4 @@ If you find our work useful in your research please consider citing our paper:
 ```
 
 ## ❤️ Acknowledgment
-I am thankful to Adversarial-AutoMixup (@JinXins) to provide me source and target images, it saves lots of my time. Thank you once again. Also, I am exceptionally thankful to IPMix author (@hzlsaber) to represent his method figure clearly for my paper. Also addressing my concerns in a timely manner which save lots of time. Lastly, I am again thankful to GuidedMixup author (@3neutronstar) about datasets and method output.
+I am grateful to Adversarial-AutoMixup (@JinXins) for providing the source and target images, which significantly saved me a lot of time. Thank you once again. I am also exceptionally thankful to the author of IPMix, (@hzlsaber), for presenting their method's figures clearly, which greatly aided my paper. Additionally, their timely responses to my concerns saved me considerable time. Lastly, my thanks again go to the author of GuidedMixup, (@3neutronstar), for their insights on datasets and method outputs.
