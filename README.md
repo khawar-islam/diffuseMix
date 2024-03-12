@@ -1,4 +1,11 @@
 # DiffuseMix : Label-Preserving Data Augmentation with Diffusion Models (CVPR'2024)
+
+[![Website](https://img.shields.io/badge/Project-Website-87CEEB)](https://www.linkedin.com/in/khawarislam/)
+[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://www.linkedin.com/in/khawarislam/)
+[![video](https://img.shields.io/badge/Video-Presentation-F9D371)](https://www.linkedin.com/in/khawarislam/)
+[![demo](https://img.shields.io/badge/-Demo-red)](https://www.linkedin.com/in/khawarislam/)
+
+
 <p align="center">
     <img src="https://i.imgur.com/waxVImv.png" alt="DiffusMix">
 </p>
@@ -11,10 +18,6 @@
 
 #### **FloppyDisk.AI, Mohamed bin Zayed University of Artificial Intelligence, Information Technology University**
 
-[![Website](https://img.shields.io/badge/Project-Website-87CEEB)](https://www.linkedin.com/in/khawarislam/)
-[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://www.linkedin.com/in/khawarislam/)
-[![video](https://img.shields.io/badge/Video-Presentation-F9D371)](https://www.linkedin.com/in/khawarislam/)
-[![demo](https://img.shields.io/badge/-Demo-red)](https://www.linkedin.com/in/khawarislam/)
 
 ---
 
