@@ -7,6 +7,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://www.linkedin.com/in/khawarislam/)
 [![Hugging Face](https://img.shields.io/badge/i2i-%F0%9F%A4%97%20Hugging%20Face-blue)](https://www.linkedin.com/in/khawarislam/)
 [![Page Views Count](https://badges.toozhao.com/badges/01HRR1Z1PZQZ9PCVJ7MN2Q67HN/blue.svg)](https://badges.toozhao.com/stats/01HRR1Z1PZQZ9PCVJ7MN2Q67HN "Get your own page views count badge on badges.toozhao.com")
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourrepository)
+
+
 <p align="center">
     <img src="https://i.imgur.com/waxVImv.png" alt="DiffusMix">
 </p>
