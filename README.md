@@ -4,8 +4,9 @@
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://www.linkedin.com/in/khawarislam/)
 [![video](https://img.shields.io/badge/Video-Presentation-F9D371)](https://www.linkedin.com/in/khawarislam/)
 [![demo](https://img.shields.io/badge/-Demo-red)](https://www.linkedin.com/in/khawarislam/)
-[![Page Views Count](https://badges.toozhao.com/badges/01HRR1RDTPYV6TWS03B9YZYH7E/blue.svg)](https://badges.toozhao.com/stats/01HRR1RDTPYV6TWS03B9YZYH7E "Get your own page views count badge on badges.toozhao.com")
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/DemoFusion-colab/blob/main/DemoFusion_colab.ipynb)
+[![Hugging Face](https://img.shields.io/badge/i2i-%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/radames/Enhance-This-DemoFusion-SDXL)
+[![Page Views Count](https://badges.toozhao.com/badges/01HFMAPCVTA1T32KN2PASNYGYK/blue.svg)](https://badges.toozhao.com/stats/01HFMAPCVTA1T32KN2PASNYGYK "Get your own page views count badge on badges.toozhao.com")
 <p align="center">
     <img src="https://i.imgur.com/waxVImv.png" alt="DiffusMix">
 </p>
