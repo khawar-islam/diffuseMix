@@ -14,11 +14,6 @@
     <img src="images/diffuseMix_flower102.png" alt="DiffusMix Treasure">
 </p>
 
-#### [Khawar Islam](https://www.linkedin.com/in/khawarislam/)\*, [Muhammad Zaigham Zaheer](https://www.linkedin.com/in/zaighamzaheer//)\*, [Arif Mahmood](https://www.linkedin.com/in/arif-mahmood-36875ab1/), and [Karthik Nandakumar](https://www.linkedin.com/in/karthik-nandakumar-5504465/)
-
-#### **FloppyDisk.AI, Mohamed bin Zayed University of Artificial Intelligence, Information Technology University**
-
-
 ---
 
 ## 📢 Latest Updates
