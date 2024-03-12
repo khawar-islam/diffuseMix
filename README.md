@@ -4,7 +4,7 @@
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://www.linkedin.com/in/khawarislam/)
 [![video](https://img.shields.io/badge/Video-Presentation-F9D371)](https://www.linkedin.com/in/khawarislam/)
 [![demo](https://img.shields.io/badge/-Demo-red)](https://www.linkedin.com/in/khawarislam/)
-
+[![Page Views Count](https://badges.toozhao.com/badges/01HRR1RDTPYV6TWS03B9YZYH7E/blue.svg)](https://badges.toozhao.com/stats/01HRR1RDTPYV6TWS03B9YZYH7E "Get your own page views count badge on badges.toozhao.com")
 
 <p align="center">
     <img src="https://i.imgur.com/waxVImv.png" alt="DiffusMix">
