@@ -1,6 +1,10 @@
 # DiffuseMix : Label-Preserving Data Augmentation with Diffusion Models (CVPR'2024)
 <p align="center">
-    <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
+    <img src="https://i.imgur.com/waxVImv.png" alt="DiffusMix">
+</p>
+
+<p align="center">
+    <img src="images/diffuseMix_flower102.png" alt="DiffusMix Treasure">
 </p>
 
 #### [Khawar Islam](https://www.linkedin.com/in/khawarislam/)\*, [Muhammad Zaigham Zaheer](https://www.linkedin.com/in/zaighamzaheer//)\*, [Arif Mahmood](https://www.linkedin.com/in/arif-mahmood-36875ab1/), and [Karthik Nandakumar](https://www.linkedin.com/in/karthik-nandakumar-5504465/)
