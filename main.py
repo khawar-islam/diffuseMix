@@ -4,6 +4,7 @@ from augment.handler import ModelHandler
 from augment.utils import Utils
 from augment.diffuseMix import DiffuseMix
 
+
 def parse_arguments():
     parser = argparse.ArgumentParser(description="Generate an augmented dataset from original images and fractal patterns.")
     parser.add_argument('--train_dir', type=str, required=True, help='Path to the directory containing the original training images.')

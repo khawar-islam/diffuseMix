@@ -51,7 +51,7 @@ train
 ## ✨ DiffuseMix Augmentation
 To introduce the structural complexity, you can download fractal image dataset from here [Fractal Dataset](https://drive.google.com/drive/folders/19xNHNGFv-OChaCazBdMOrwdGRsXy2LPs/)
 ```
-`python3 main.py --train_dir PATH --fractal_dir PATH --prompts sunset,Autumn
+`python3 main.py --train_dir PATH --fractal_dir PATH --prompts "sunset,Autumn"
 ```
 
 ## 💬 Citation
