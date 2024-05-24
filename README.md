@@ -20,7 +20,6 @@
 ---
 
 ## 📢 Latest Updates
-- **Mar-11-24**: Extending version will be available on IEEE PAMI
 - **Mar-11-24**: DiffuseMix paper is released [arxiv link](https://www.linkedin.com/in/khawarislam/). 🔥🔥
 
 ## 🚀 Getting Started
