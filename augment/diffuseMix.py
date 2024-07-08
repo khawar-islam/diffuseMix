@@ -40,7 +40,7 @@ class DiffuseMix(Dataset):
             label = self.idx_to_class[label_idx]  # Use folder name as label
 
             original_img = Image.open(img_path).convert('RGB')
-            original_img = original_img.resize((512, 512))
+            original_img = original_img.resize((256, 256))
             img_filename = os.path.basename(img_path)
 
             label_dirs = {dtype: os.path.join(base_directory, dtype, str(label)) for dtype in
@@ -56,7 +56,7 @@ class DiffuseMix(Dataset):
                                                           self.guidance_scale)
 
                 for i, img in enumerate(augmented_images):
-                    img = img.resize((512, 512))
+                    img = img.resize((256, 256))
                     generated_img_filename = f"{img_filename}_generated_{prompt}_{i}.jpg"
                     img.save(os.path.join(label_dirs['generated'], generated_img_filename))
 
