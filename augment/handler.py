@@ -13,5 +13,5 @@ class ModelHandler:
         self.pipeline.scheduler = EulerAncestralDiscreteScheduler.from_config(self.pipeline.scheduler.config)
 
     def generate_images(self, prompt, img_path, num_images, guidance_scale):
-        image = Image.open(img_path).convert('RGB').resize((512, 512))
+        image = Image.open(img_path).convert('RGB').resize((256, 256))
         return self.pipeline(prompt, image=image, num_images_per_prompt=num_images, guidance_scale=guidance_scale).images
