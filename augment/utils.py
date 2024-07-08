@@ -8,7 +8,7 @@ class Utils:
     @staticmethod
     def load_fractal_images(fractal_img_dir):
         fractal_img_paths = [os.path.join(fractal_img_dir, fname) for fname in os.listdir(fractal_img_dir) if fname.endswith(('.png', '.jpg', '.jpeg'))]
-        return [Image.open(path).convert('RGB').resize((512, 512)) for path in fractal_img_paths]
+        return [Image.open(path).convert('RGB').resize((256, 256)) for path in fractal_img_paths]
 
     @staticmethod
     def blend_images_with_resize(base_img, overlay_img, alpha=0.20):
