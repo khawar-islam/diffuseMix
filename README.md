@@ -18,7 +18,7 @@
 ---
 
 ## 📢 Latest Updates
-- **Mar-11-24**: DiffuseMix paper is released [arxiv link](https://www.linkedin.com/in/khawarislam/). 🔥🔥
+- **Mar-11-24**: DiffuseMix paper is released [arxiv link](https://arxiv.org/abs/2405.14881). 🔥🔥
 
 ## 🚀 Getting Started
 Setup anaconda environment using `environment.yml` file.
