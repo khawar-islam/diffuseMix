@@ -60,6 +60,20 @@ If you find our work useful in your research please consider citing our paper:
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   year={2024}
 }
+
+@article{islam2024genmix,
+  title={Genmix: effective data augmentation with generative diffusion model image editing},
+  author={Islam, Khawar and Zaheer, Muhammad Zaigham and Mahmood, Arif and Nandakumar, Karthik and Akhtar, Naveed},
+  journal={arXiv preprint arXiv:2412.02366},
+  year={2024}
+}
+
+@inproceedings{islam2025context,
+  title={Context-Guided Responsible Data Augmentation with Diffusion Models},
+  author={Islam, Khawar and AKHTAR, NAVEED},
+  booktitle={ICLR 2025 Workshop on Navigating and Addressing Data Problems for Foundation Models}
+}
+
 ```
 
 ### ❤️ Acknowledgment
